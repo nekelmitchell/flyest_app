@@ -10,13 +10,13 @@ Tech Stack:
 
 Language: Swift
 
-Framework: SwiftUI (or UIKit — whichever you're using)
+Framework: SwiftUI (UIKit)
 
 Platform: iOS
 
-Backend: (Node.js / Firebase / Django — update if applicable)
+Backend: (Node.js / Firebase)
 
-Database: (Firebase / CoreData / PostgreSQL — update if applicable)
+Database: (Firebase / CoreData / PostgreSQL)
 
 Maps & Location Services: Apple MapKit / Google Maps API
 
