@@ -8,11 +8,17 @@ Help travelers stay safe, informed, connected, and culturally confident — wher
 
 Tech Stack:
 Language: Swift
+
 Framework: SwiftUI (or UIKit — whichever you're using)
+
 Platform: iOS
+
 Backend: (Node.js / Firebase / Django — update if applicable)
+
 Database: (Firebase / CoreData / PostgreSQL — update if applicable)
+
 Maps & Location Services: Apple MapKit / Google Maps API
+
 Authentication: Firebase Auth / Apple Sign In
 
-Try it: https://github.com/nekelmitchell/flyest_app.git 
+Try it: https://nekelmitchell.github.io/flyest_app/
