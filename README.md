@@ -22,4 +22,4 @@ Maps & Location Services: Apple MapKit / Google Maps API
 
 Authentication: Firebase Auth / Apple Sign In
 
-Try it: https://nekelmitchell.github.io/flyest_app/
+Try it: 
