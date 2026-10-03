@@ -23,3 +23,6 @@ Maps & Location Services: Apple MapKit / Google Maps API
 Authentication: Firebase Auth / Apple Sign In
 
 Try it: [View App Source Code](FlyestApp/ContentView.swift)
+
+Sketch of the Opening Screen (Draft): ![Screenshot](<img width="852" height="1846" alt="DraftScreen1" src="https://github.com/user-attachments/assets/9c08b744-4666-49fd-ad62-7a54ff18e281" />)
+
